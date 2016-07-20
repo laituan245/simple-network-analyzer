@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simple Network Analyzer</string>
+    <string name="check_network_connection">Check Network Connection</string>
+    <string name="google_204_test_request">204 Test Request</string>
+    <string name="kenh14_test_request">kenh14 Test Request</string>
+    <string name="save_log">Save Log</string>
+</resources>
